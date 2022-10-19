@@ -14,7 +14,8 @@ The project is made possible in part through a grant from the Chan Zuckerberg In
 * Adama Rama Wade, Cheikh Anta Diop University
 * Mohamed Allali Bilal, Cheikh Anta Diop University
 
-# 3D Slicer Language Packs Extension
-# 3D Slicer Translation Repository on Weblate 
-# 3D Slicer Tutorials in French
+# Project Outcomes
+## 3D Slicer Language Packs Extension
+## 3D Slicer Translation Repository on Weblate 
+## 3D Slicer Tutorials in French
 
