@@ -1,4 +1,4 @@
-The 3D Slicer Internationalization project aims to increase the accessibility of the 3D Slicer open source software platform around the world.
+The 3D Slicer in My Language project aims to increase the accessibility of the 3D Slicer open source software platform around the world.
 The project is made possible in part through a grant from the Chan Zuckerberg Initiative.
 
 
