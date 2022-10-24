@@ -3,7 +3,7 @@ The project is made possible in part through a grant from the Chan Zuckerberg In
 
 
 # Team
-* Sonia Pujol, PhD, Brigham and Women's Hospital, Harvard Medical School
+* Sonia Pujol, PhD (Project Lead), Brigham and Women's Hospital, Harvard Medical School
 * Steve Pieper, PhD, Ismomics Inc.
 * Andras Lasso, PhD
 * Mamadou Camara, Cheikh Anta Diop University
