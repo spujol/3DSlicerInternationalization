@@ -15,7 +15,10 @@ The project is made possible in part through a grant from the Chan Zuckerberg In
 * Mohamed Allali Bilal, Cheikh Anta Diop University
 
 # Project Outcomes
-## 3D Slicer Language Packs Extension
-## 3D Slicer Translation Repository on Weblate 
+## [3D Slicer Language Packs Extension](https://github.com/Slicer/SlicerLanguagePacks) 
+## [3D Slicer Translation Repository on Weblate](https://hosted.weblate.org/projects/3d-slicer/3d-slicer/)
 ## 3D Slicer Tutorials in French
+* [Data Loading and Visualization](https://spujol.github.io/SlicerVisualizationTutorial/)
+* [DICOM and Slicer: A Tutorial](https://spujol.github.io/SlicerDICOMTutorial/)
+
 
