@@ -3,16 +3,16 @@ The project is made possible in part through a grant from the Chan Zuckerberg In
 
 
 # Team
-* Sonia Pujol, PhD (Project Lead), Brigham and Women's Hospital, Harvard Medical School
-* Steve Pieper, PhD, Ismomics Inc.
-* Andras Lasso, PhD
-* Mamadou Camara, Cheikh Anta Diop University
-* Mouhamed Diop, Cheikh Anta Diop University
-* Doudou Fall, Cheikh Anta Diop University
-* Samba Diaw, Cheikh Anta Diop University
-* Ibrahima Fall, Cheikh Anta Diop University
-* Adama Rama Wade, Cheikh Anta Diop University
-* Mohamed Allali Bilal, Cheikh Anta Diop University
+* Sonia Pujol, PhD (Project Lead), Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA
+* Steve Pieper, PhD, Isomics Inc., Cambridge, MA, USA
+* Andras Lasso, PhD, Queen's University, Canada
+* Mamadou Camara, Cheikh Anta Diop University, Senegal
+* Mouhamed Diop, Cheikh Anta Diop University, Senegal
+* Doudou Fall, Cheikh Anta Diop University, Senegal
+* Samba Diaw, Cheikh Anta Diop University, Senegal
+* Ibrahima Fall, Cheikh Anta Diop University, Senegal
+* Adama Rama Wade, Cheikh Anta Diop University, Senegal
+* Mohamed Allali Bilal, Cheikh Anta Diop University, Senegal
 
 # Project Outcomes
 ## [3D Slicer Language Packs Extension](https://github.com/Slicer/SlicerLanguagePacks) 
